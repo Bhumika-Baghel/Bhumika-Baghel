@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bhumika 👋
 
-<!--
-**Bhumika-Baghel/Bhumika-Baghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning C, C++ and Python. Practicing problem solving and building small projects.
 
-Here are some ideas to get you started:
+## Currently working on
+- 🌱 Currently learning: C++, Python and problem solving
+- 💻 Practicing: programs and problem solving
+- 🎯 Goal: build real projects and grow as a developer
+- 📫 Reach me: https://www.linkedin.com/in/bhumika-baghel-5361773d
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+C | C++ | Python 
+
+## My repositories
+
+- [C-Programming](https://github.com/Bhumika-Baghel/C-Programming) - C programs and practice problems
+- [Python-Programming](https://github.com/Bhumika-Baghel/Python-Programming) - Python concepts, programs and practice
+- [CPP-Programming](https://github.com/Bhumika-Baghel/CPP-Programming) - my C++ learning journey through practice
