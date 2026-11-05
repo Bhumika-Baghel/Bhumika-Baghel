@@ -1,9 +1,9 @@
 # Hi, I'm Bhumika 👋
 
-Learning C, C++ and Python. Practicing problem solving and building small projects.
+Learning C, C++ and Python. Practicing problem solving and building strong programming fundamentals.
 
 ## Currently working on
-- 🌱 Currently learning: C++, Python and problem solving
+- 🌱 Learning C++, Python and problem solving
 - 💻 Practicing: programs and problem solving
 - 🎯 Goal: build real projects and grow as a developer
 - 📫 Reach me: https://www.linkedin.com/in/bhumika-baghel-5361773d
